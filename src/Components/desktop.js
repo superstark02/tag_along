@@ -5,11 +5,11 @@ import w3 from "./Images/w3.png"
 import w4 from "./Images/w4.png"
 import w5 from "./Images/w5.png"
 import logo from "./Images/logota.png"
-import Idea from './idea';
+import Idea from '../idea';
 import Advantages from './advantages';
 import Agencies from './agencies';
 import Footer from './footer';
-import Tiles from './tiles';
+import Tiles from '../tiles';
 
 export class Desktop extends Component {
   render() {
